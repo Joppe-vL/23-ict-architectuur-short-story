@@ -1,4 +1,4 @@
-#Loner IT Student Finds Community  
+# Loner IT Student Finds Community  
 *Auteur: Joppe*
 
 Jan was an IT student who spent most of his days in front of his computer, programming and debugging code. He was a brilliant student, but he had no friends. He was always alone, eating his lunch in the cafeteria and walking home alone after classes.
