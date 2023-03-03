@@ -2,6 +2,7 @@
 *Auteur: Joppe*
 
 Jan was an IT student who spent most of his days in front of his computer, programming and debugging code. He was a brilliant student, but he had no friends. He was always alone, eating his lunch in the cafeteria and walking home alone after classes.
+![alt text](https://github.com/Joppe-vL/23-ict-architectuur-short-story/blob/Story-Images/kat-j-NPmR0RblyhQ-unsplash.jpg?raw=true)
 
 Jan had always been a bit of a loner, preferring the company of his computer over people. He had tried making friends in the past, but it never seemed to work out. He was too shy and introverted to connect with his classmates.
 
@@ -12,3 +13,4 @@ Jan started spending more and more time on the online forum, connecting with peo
 With his newfound confidence, Jan started participating in more group projects at school. He found that he was able to contribute more to his team now that he had a support system outside of school. He even started chatting with his classmates more, offering his help with their coding assignments.
 
 Jan still spent a lot of time in front of his computer, but he was no longer alone. He had found a community that accepted him for who he was, and that was enough.
+![alt text](https://github.com/Joppe-vL/23-ict-architectuur-short-story/blob/Story-Images/christina-wocintechchat-com-nRJRBhhOBqA-unsplash.jpg?raw=true)
